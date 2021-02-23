@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Action">
+        <file>Image/file.jpg</file>
+        <file>Image/save.jpg</file>
+    </qresource>
+</RCC>
