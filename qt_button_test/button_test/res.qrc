@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/button">
+        <file>images/return.png</file>
+        <file>images/lastPage.png</file>
+    </qresource>
+</RCC>
